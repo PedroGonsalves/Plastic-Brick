@@ -28,6 +28,8 @@
     justify-content: space-between;
 }
 
+/*================Home============================================================================*/
+
 .home {
     background: linear-gradient(131.58deg, #00138E 6%, #1CADFF 67.14%, #1BE0E2 97.71%);
     display: flex;
