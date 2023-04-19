@@ -1,0 +1,29 @@
+/*=================Header===============================================================================*/
+
+#header {
+    background-color: var() ;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    width: 80%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imgheader {
+    display: flex;
+    justify-content: space-around;
+}
+
+.const {
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
